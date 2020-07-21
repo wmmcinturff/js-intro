@@ -32,18 +32,17 @@
 
 //let array = []
 
-let name = 'Dr.T',
-    age = "wouldn't you like to know...",
-    school = "NSS";
+//let name = 'Dr.T',
+  //  age = "wouldn't you like to know...",
+   // school = "NSS";
 
 
-let object = {
-     name,
-     age,
-     school
-}
+//let object = {
+     //name,
+     //age,
+     //
 
 //let myFunction = () => {
   //  return
 //}
-console.log(object.age)
+//console.log()
